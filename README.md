@@ -28,8 +28,8 @@ Rotate the image using angle function.
 
 ## Program:
 
-### Developed By: Aadhithya.M
-### Register Number: 212222100001
+### Developed By: THAMARAISELVAN V
+### Register Number: 212222100115
 
 ```python
 i)Image Translation
